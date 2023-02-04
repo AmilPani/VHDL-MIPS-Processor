@@ -3,7 +3,7 @@ This was the final lab assignment of my ECE 445: Computer Organization course at
 
 ### Software and Hardware
 * Xilinx Vivado 2019.1 or later
-* Basys 3 Artix-7 trainer board
+* Basys 3 Artix-7 FPGA trainer board
 
 ### Datapath
 The final datapath diagram has all the units connected:
