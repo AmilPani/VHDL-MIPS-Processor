@@ -1,5 +1,5 @@
 # VHDL MIPS Processor
-This was the final lab assignment of my ECE 445: Computer Organization course at GMU. Xilinx Vivado 2019.1 was used for this lab. The previous labs consisted of consecutively building a MIPS processes unit by unit. 
+This was the final lab assignment of my ECE 445: Computer Organization course at GMU during Fall 2020. Xilinx Vivado 2019.1 was used for this lab. The previous labs consisted of consecutively building a MIPS processes unit by unit. 
 
 
 The final datapath diagram has all the units connected:
