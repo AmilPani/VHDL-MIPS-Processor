@@ -12,7 +12,7 @@ The final datapath diagram has all the units connected:
 
 ### MIPS Instructions
 Each unit in the diagram above has its own .vhd file. This MIPS processor is capable of reading assembly language instructions via intsmem.vhd.
-The table below displays all the MIPS instructions: 
+The table below displays all the readable MIPS instructions: 
 
 | No   | Operation                        | Format | Mnemonic | Opcode | Function |
 |----- | -------------------------------- | ------ | -------- | ------ | -------- |
