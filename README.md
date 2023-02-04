@@ -1,12 +1,16 @@
 # VHDL MIPS Processor
 This was the final lab assignment of my ECE 445: Computer Organization course at GMU during Fall 2020. Xilinx Vivado 2019.1 was used for this lab. The previous labs consisted of consecutively building a MIPS processes unit by unit. 
 
+### Software and Hardware
+* Xilinx Vivado 2019.1 or later
+* Basys 3 Artix-7 trainer board
 
+### Datapath
 The final datapath diagram has all the units connected:
 ![Datapath](https://user-images.githubusercontent.com/99919744/216753496-ee652a91-88ba-44a9-a887-b04e15ed667f.PNG)
 ![BlockDiagram](https://user-images.githubusercontent.com/99919744/216752387-e6c5a02a-75b3-41a1-8d73-07c20c706fc8.PNG)
 
-
+### MIPS Instructions
 Each unit in the diagram above has its own .vhd file. This MIPS processor is capable of reading assembly language instructions via intsmem.vhd.
 The table below displays all the MIPS instructions: 
 
